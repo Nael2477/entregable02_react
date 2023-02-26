@@ -1,0 +1,9 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px;
+  background-color: rgb(196, 217, 245);
+}
